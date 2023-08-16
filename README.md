@@ -5,7 +5,8 @@ Tabalho realizado em grid, responsivo e interadivo!  <br/>
 
 <p align="center">
   <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;<a href="#-licenca">Licença</a>
+  <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-licenca">Licença</a>&nbsp;&nbsp;&nbsp;
 </p>
 
 
@@ -16,7 +17,7 @@ Tabalho realizado em grid, responsivo e interadivo!  <br/>
 <br>
 
 <p align="center">
-  <img alt="Tela Ser Digital" src="./github/Apresentação project .png" width="100%">
+  <img alt="Tela Ser Digital" src="./github/Apresentação project.png" width="100%">
 </p>
 
 ## 🚀 Tecnologias
