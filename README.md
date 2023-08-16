@@ -18,6 +18,9 @@ Tabalho realizado em grid, responsivo e interadivo!  <br/>
 
 <p align="center">
   <img alt="Tela Ser Digital" src="./github/Apresentação project.png" width="100%">
+  <video autoplay loop style="width:100%; height: auto; position:absolute; z-index: -1;">
+  <source src="./github/WhatsApp Video 2023-08-15 at 23.26.38.mp4" type="video/mp4" />
+</video>
 </p>
 
 ## 🚀 Tecnologias
