@@ -19,7 +19,7 @@ Tabalho realizado em grid, responsivo e interadivo!  <br/>
 
 
 
-
+Fica aqui um exemplo das telas do projeto:
 <p align="center">
   <img alt="Tela Ser Digital" src="./github/Apresentação project.png" width="100%">
  
